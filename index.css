@@ -1,0 +1,9 @@
+.bg-container{
+    text-align:center;
+    background-image: url("https://img.freepik.com/premium-vector/hand-drawn-minimal-abstract-blue-grey-shape-background_643365-41.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.items{
+    text-align:center;
+}
